@@ -7,5 +7,3 @@
 TA 고재현
 
 Mobile : 010-1234-5678
-
-testest
